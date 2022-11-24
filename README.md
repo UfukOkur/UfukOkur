@@ -7,6 +7,6 @@
     <img src="https://github.com/UfukOkur/UfukOkur/blob/main/github-metrics.svg">
 </p>
 
-🔭 I’m currently working on **[LinuxTree](https://github.com/Linux-Tree)**
+🔭 I’m currently working on **[Discord](https://github.com/discord)**
 
 📫 Contact [Instagram](https://instagram.com/ufukflex), [Discord](https://discord.com/users/1023658089674719353) `Mâtheus#7777`
